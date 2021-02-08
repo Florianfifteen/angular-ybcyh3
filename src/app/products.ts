@@ -2,19 +2,19 @@ export const products = [
   {
     id: 1,
     name: "iPhone XL",
-    price: 699,
+    price: 999,
     description: "A large phone with one of the best screens"
   },
   {
     id: 2,
     name: "iPhone X",
-    price: 599,
+    price: 699,
     description: "A great phone with one of the best cameras"
   },
   {
     id: 3,
     name: "iPhone XS",
-    price: 499,
+    price: 599,
     description: ""
   }
 ];
